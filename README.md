@@ -17,7 +17,7 @@ It enables an ability to use 1 credentials on multiple domains without modifying
 should be used to protect your application from [CSRF attacks].
 
 
-[oauth2.me]:http://oauth2.me/
+[oauth2.me]:http://oauth2-me/
 [state parameter]:https://tools.ietf.org/html/rfc6749#section-4.1.1
 [oauth2-me-ruby]:https://github.com/jetthoughts/oauth2-me-ruby
 [base64]:http://en.wikipedia.org/wiki/Base64
